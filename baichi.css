@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex1{
+    flex: 1;
+}
+
+.flex2{
+    flex: 2;
+}
+
+.flex3{
+    flex: 3;
+}
+
+.flex4{
+    flex: 4;
+}
+
+.flex5{
+    flex: 5;
+}
+.flex6{
+    flex: 6;
+}
+.flex7{
+    flex: 7;
+}
+.flex8{
+    flex: 8;
+}
+.flex9{
+    flex: 9;
+}
+.flex10{
+    flex: 10;
+}
+
+
+.column{
+    flex-direction: column;
+}
+
+.row{
+    flex-direction: row;
+}
+
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.our-border-bottom { 
+    border-bottom: 10px solid #eee;
+}
+
+.width95{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.fontsize22px{
+    font-size: 22px;
+}
+
+.sycolor{
+    color: #1E90FF;
+}
+
+.alignitemcenter{
+   align-items: center;
+}
+
+.thin-border-bottom{
+    border-bottom: .2px solid rgba(0, 0, 0, 0.2);
+}
+.width100{
+    width: 100%;
+}
+
+.fontstrong{
+    font-weight: bold;
+}
+.width90{
+    width: 90%;
+    margin: 0 auto;
+}
+.mytitlemark{
+    width: 80px;
+    border-left: 7px solid #1E90FF;
+    padding-left: 13px;
+}
+.fontsize18px{
+    font-size: 18px;
+}
+
+.justifycontentspacearound{
+    justify-content: space-around;
+}
+.justifycontentflexstart{
+    justify-content: flex-start;
+}
+
+.graycolor{
+    color: rgba(0, 0, 0, 0.4);
+}
